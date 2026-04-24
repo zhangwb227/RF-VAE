@@ -13,7 +13,7 @@
 # Dataset VIS-NIR-70K
 
 ```python
-The VIS-NIR-70K is publicly accessible at https://pan.baidu.com/s/1SVtfqeOLOvTr3gOCDnUOww
+The VIS-NIR-70K is publicly accessible at [https://pan.baidu.com/s/1SVtfqeOLOvTr3gOCDnUOww](https://pan.baidu.com/s/1fX0e62On8o9fI33NZw5Ndg). The code can be obtained from the corresponding author.
 ```
 
 # Train
